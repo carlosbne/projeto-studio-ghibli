@@ -102,7 +102,7 @@ header{
 }
 .arrow-down{
     height: 50px;
-    background-image: url("../imagens/");
+    background-image: url("../imagens/Arrow.svg");
     background-repeat: no-repeat;
     background-position: bottom center;
 }

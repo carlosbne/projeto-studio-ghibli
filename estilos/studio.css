@@ -75,7 +75,7 @@ header{
     display: flex;
     flex-direction: column;
     height: 100vh;
-    background: url("/imagens/studio/background-studio.svg");
+    background: url("../imagens/studio/background-studio.svg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top left;
@@ -101,7 +101,7 @@ h1{
 }
 .arrow-down{
     height: 50px;
-    background-image: url("/imagens/Arrow.svg");
+    background-image: url("../imagens/Arrow.svg");
     background-repeat: no-repeat;
     background-position: bottom center;
 }
