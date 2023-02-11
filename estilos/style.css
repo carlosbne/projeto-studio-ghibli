@@ -72,7 +72,7 @@ header{
 /* ------Página inicial------- */
 .totoro-background{
     height: 100vh;
-    background-image: url("/imagens/tororo.svg");
+    background-image: url("../imagens/tororo.svg");
     background-size:calc(100vh - 10%);
     background-repeat: no-repeat;
     background-position: center bottom;
@@ -82,7 +82,7 @@ header{
     height: 80vh;
     margin: auto;
     max-width: 1400px;
-    background-image: url("/imagens/ghibli\ lettler.svg");
+    background-image: url("../imagens/ghibli\ lettler.svg");
     background-repeat: no-repeat;
     background-size:calc(100vh - 5%);
     background-position: bottom right;
@@ -102,7 +102,7 @@ header{
 }
 .arrow-down{
     height: 50px;
-    background-image: url("/imagens/Arrow.svg");
+    background-image: url("../imagens/");
     background-repeat: no-repeat;
     background-position: bottom center;
 }
@@ -118,7 +118,7 @@ header{
     margin-right: 50px;
     height: 95px;
     width: 75px;
-    background-image: url("/imagens/logo-rodape.svg");
+    background-image: url("../imagens/logo-rodape.svg");
     background-repeat: no-repeat;
     background-size: cover;
 }
